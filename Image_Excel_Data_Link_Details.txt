@@ -1,0 +1,20 @@
+
+
+
+DataSet: Link Information Details:
+
+Stage 1: For Lung Sound Classification:
+
+1.https://www.kaggle.com/datasets/arashnic/lung-dataset
+
+Stage 2: For Lung Cancer Classification: Cancerous/ Non-Cancerous
+
+https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset
+
+Stage 3: Image Classification - Image Dataset:
+
+https://www.kaggle.com/code/adityamahimkar/lung-cancer-prediction-on-image-data/input
+
+Stage: 4: Post-thoracic surgery Survival Rate:
+
+https://github.com/sychi77/Thoracic_Surgery_Patient_Survival/blob/master/data/ThoracicSurgery.csv
